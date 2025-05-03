@@ -34,12 +34,4 @@ Responsive portfolio website showcasing skills, experience, and projects.
 
 ---
 
-## 📫 Connect With Me
-
-- **Email:** mohammad.shami@example.com  
-- **GitHub:** [github.com/mshami](https://github.com/mshami)  
-- **LinkedIn:** [linkedin.com/in/mshami](https://linkedin.com/in/mshami)
-
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
